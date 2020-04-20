@@ -1,5 +1,11 @@
-This repository is now deprecated. Please use [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers) instead.
+# Credit
+This repository was forked from ThilinaRajapakse who used the HuggingFace PyTorch-Transformers library for the use of UC Berkeley's Masters of Information and Data Science program. In particular, this repository will be used to showcase JJ Sahabu and George Tao's work on their W266 Final Project. 
 
+# Purpose
+This project features binary text classification used to differentiate between Twitter and Facebook data. The purpose of this project was to showcase a trivial use of RoBERTa and comparing it to LSTMs and a naive baseline model to fully understand the improvements of state-of-the-art natural language processing models. We fine-tuned multiple models using preprocessed social media text data for the purpose of binary text classification.
+
+
+# -----------------------------------------------------------
 # Update Notice
 
 The underlying [Pytorch-Transformers](https://github.com/huggingface/pytorch-transformers) library by HuggingFace has been updated substantially since this repo was created. As such, this repo might not be compatible with the current version of the Hugging Face Transformers library. This repo will not be updated further. 
