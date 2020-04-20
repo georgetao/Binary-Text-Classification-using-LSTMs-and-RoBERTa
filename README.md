@@ -5,7 +5,7 @@ This repository was forked from ThilinaRajapakse who used the HuggingFace PyTorc
 This project features binary text classification used to differentiate between Twitter and Facebook data. The purpose of this project was to showcase a trivial use of RoBERTa and comparing it to LSTMs and a naive baseline model to fully understand the improvements of state-of-the-art natural language processing models. We fine-tuned multiple models using preprocessed social media text data for the purpose of binary text classification.
 
 
-# The sections bellow were written by ThilinaRajapakse
+# The sections below were written by ThilinaRajapakse
 
 
 # Pytorch-Transformers-Classification
